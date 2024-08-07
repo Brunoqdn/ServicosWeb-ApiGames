@@ -1,4 +1,4 @@
-# API de Times de Games
+# API de Games
 
 Esta é uma API simples de games que permite realizar operações CRUD (Create, Read, Update, Delete) utilizando Node.js, MySQL e JWT para autenticação.
 
